@@ -9,5 +9,5 @@ const about =
 
 ReactDOM.render(
     about,
-    document.getElementById('about')
+    document.getElementById('root')
   );
