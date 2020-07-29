@@ -1,7 +1,7 @@
 const footer = 
     <div className="Footer">
-        <p>Justin Jones</p>
-        <p>2020</p>
+        <p>Justin Jones  2020</p>
+
     </div>;
 
 ReactDOM.render(
