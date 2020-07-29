@@ -18,6 +18,17 @@ const projects =
         </p>
         <a className="Link" href="https://github.com/JustinJeoJones/Melee-Stream-Puller">Check out the code!</a>
     </div>
+    <div className="project">
+        <p className="Title">Unreal Projects</p>
+        <p className="Description">
+            Using the Unreal Engine and following a <a href= "https://www.udemy.com/course/unrealcourse/">Udemy Unreal Course</a> I've been able to create this. This engine uses c++ to teach its students Unreal.
+        </p>
+        <video width="384" height="216" controls>
+            <source src="../videos/UnrealVideo.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+        </video>
+        <a className="Link" href="">Code currently not on Github</a>
+    </div>
 </div>
 ReactDOM.render(
     projects,
