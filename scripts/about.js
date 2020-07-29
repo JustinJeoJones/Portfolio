@@ -1,4 +1,4 @@
-//Placed near the top of page. 
+
 const about = 
     <div className="About">
         <p>I am a Junior programmer who is actively trying to learn. All kinds of development interests me and I someday hope to be able to work on the cutting edge of technology.</p>
@@ -9,5 +9,5 @@ const about =
 
 ReactDOM.render(
     about,
-    document.getElementById('root')
+    document.getElementById('about')
   );

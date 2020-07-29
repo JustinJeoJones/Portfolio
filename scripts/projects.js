@@ -32,5 +32,5 @@ const projects =
 </div>
 ReactDOM.render(
     projects,
-    document.getElementById('root')
+    document.getElementById('projects')
 );
