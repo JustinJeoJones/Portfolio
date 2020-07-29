@@ -152,3 +152,19 @@ a{
     display: flex;
     flex-direction: row;
 }
+
+@media only screen and (min-width: 768px) {
+    /* For computers: */
+    .About{
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+    .text{
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+    .contact{
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+  }
