@@ -1,7 +1,7 @@
 //Placed near the top of page. 
 const header =  
 <div className="header">
-    <img className="profile" src="images/profile.jpg"></img>
+    <img className="profile" src="./images/profile.jpg"></img>
     <a href="index.html">Justin Jones</a>
 </div>
 ReactDOM.render(
