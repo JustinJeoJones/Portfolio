@@ -103,7 +103,12 @@ a{
     border-radius: 15px;
 }
 
-
+.text{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
 
 .projectHolder{
     display: flex;
