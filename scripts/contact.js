@@ -1,9 +1,11 @@
 const contact = 
+<div>
+    <h1 className = "holderTitle">Contact me!</h1>
     <div className="Contact">
-        <h1>Contact me!</h1>
-        <p>If you wish to contact me, please email me at Jeo961@gmail.com and I will get back to you in a couple business days</p>
-        <p><a href="../files/Justin_Jones_Resume.pdf" download>Click here</a> to download my Resume!</p>
-    </div>;
+        <p className="Text">If you wish to contact me, please email me at Jeo961@gmail.com and I will get back to you in a couple business days</p>
+        <p className="Text"><a href="../files/Justin_Jones_Resume.pdf" download>Click here</a> to download my Resume!</p>
+    </div>
+</div>;
 
 ReactDOM.render(
     contact,
