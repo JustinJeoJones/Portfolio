@@ -24,7 +24,7 @@ const projects =
             Using the Unreal Engine and following a <a href= "https://www.udemy.com/course/unrealcourse/">Udemy Unreal Course</a> I've been able to create this. This engine uses c++ to teach its students Unreal.
         </p>
         <video width="50%" height="25%" controls>
-            <source src="../videos/UnrealVideo.mp4" type="video/mp4" />
+            <source src="../videos/UnrealVideo.MP4" type="video/mp4" />
             Your browser does not support the video tag.
         </video>
         <a className="link" href="">Code currently not on Github</a>
