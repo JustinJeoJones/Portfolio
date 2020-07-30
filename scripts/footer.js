@@ -1,5 +1,5 @@
 const footer = 
-    <div className="Footer">
+    <div className="footer">
         <p>Justin Jones  2020</p>
     </div>;
 

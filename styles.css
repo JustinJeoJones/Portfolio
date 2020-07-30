@@ -69,7 +69,7 @@ a{
     padding-right: 5%;
 }
 
-.Header{
+.header{
     display: flex;
     align-items: flex-end;
     font-size: 1em;
@@ -90,7 +90,7 @@ a{
     padding-right: 2%;
 }
 
-.About{
+.about{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -141,12 +141,12 @@ a{
     margin-bottom: 5px;
 }
 
-.Title{
+.title{
     font-size: 1.5em;
     padding-bottom: 10px;
 }
 
-.Description{
+.description{
     font-size: 1em;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -177,7 +177,7 @@ a{
 
 @media only screen and (min-width: 768px) {
     /* For computers: */
-    .Header{
+    .header{
         font-size: 1.5em;
         margin-bottom: 1%;
     }
@@ -185,7 +185,7 @@ a{
         width: 5%;
         padding-top: 5px;
     }
-    .About{
+    .about{
         padding-top: 1%;
         padding-bottom: 1%;
     }
